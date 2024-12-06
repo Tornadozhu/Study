@@ -36,6 +36,8 @@ SSH 是（C/S架构）由服务器和客户端组成，为建立安全的 SSH �
 
 使用 vscode 进行端口映射
 
+![image](https://github.com/user-attachments/assets/420b60e9-f6a1-4d3e-93d6-6498d55aa28c)
+
 
 
 
