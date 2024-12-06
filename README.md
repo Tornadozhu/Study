@@ -14,6 +14,12 @@ SSH 是（C/S架构）由服务器和客户端组成，为建立安全的 SSH �
 
 ![image](https://github.com/user-attachments/assets/8791256b-e5e9-47cc-a60b-57346f1527d4)
 
+![image](https://github.com/user-attachments/assets/4d1af654-ce05-485c-a160-d9f45775a8f0)
+
+![image](https://github.com/user-attachments/assets/1ee0f502-6bd2-41a9-b521-68581b02348d)
+
+
+
 
 ### 可选任务 1：将Linux基础命令在开发机上完成一遍
 
