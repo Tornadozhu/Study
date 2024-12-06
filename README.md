@@ -48,5 +48,8 @@ SSH 是（C/S架构）由服务器和客户端组成，为建立安全的 SSH �
 
 ### 可选任务 1：将Linux基础命令在开发机上完成一遍
 
+![image](https://github.com/user-attachments/assets/5905c0ee-bda0-49d8-98be-0bf66dd793e4)
+
+
 
 ### 可选任务 2：使用 VSCODE 远程连接开发机并创建一个conda环境
