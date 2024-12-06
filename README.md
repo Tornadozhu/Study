@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/28b63fd7-2e1e-4773-b679-5003a7c4609c)# Study
+# Study
 书生训练营
 ## L0G1000
 ### 闯关任务：完成SSH连接与端口映射并运行hello_world.py
