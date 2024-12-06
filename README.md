@@ -10,6 +10,10 @@ SSH 是（C/S架构）由服务器和客户端组成，为建立安全的 SSH �
 
 **2、如何使用SSH远程连接开发机？**
 
+（1）使用密码进行SSH远程连接
+
+![image](https://github.com/user-attachments/assets/8791256b-e5e9-47cc-a60b-57346f1527d4)
+
 
 ### 可选任务 1：将Linux基础命令在开发机上完成一遍
 
