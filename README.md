@@ -28,6 +28,8 @@ SSH 是（C/S架构）由服务器和客户端组成，为建立安全的 SSH �
 
 ![image](https://github.com/user-attachments/assets/7124b3af-ee0d-4f77-aad5-b5e0e5bbdbfa)
 
+**4、端口映射**
+
 
 
 
