@@ -20,6 +20,13 @@ SSH 是（C/S架构）由服务器和客户端组成，为建立安全的 SSH �
 
 ![image](https://github.com/user-attachments/assets/c2841e73-0acb-4159-85d7-115cca50a50b)
 
+![image](https://github.com/user-attachments/assets/17b21d4c-8d64-4f4b-adfd-74f4b8d08c72)
+
+![image](https://github.com/user-attachments/assets/02ed8611-4edb-4346-b7b5-52c8f4bd1c06)
+
+**3、使用VScode进行SSH远程连接**
+
+
 
 
 ### 可选任务 1：将Linux基础命令在开发机上完成一遍
