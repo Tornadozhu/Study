@@ -138,6 +138,16 @@ pip install -r requirements.txt --target /root/myenvs
 ![image](https://github.com/user-attachments/assets/ec863b9f-93c0-4acc-a301-3dfbe8a2b633)
 ![image](https://github.com/user-attachments/assets/1903895c-8e94-465e-8ac5-fb507194426b)
 
+#### 3、在vscode使用命令行进行debug
+
+![image](https://github.com/user-attachments/assets/a0bc23dc-2549-4927-a5c2-e01097a6b7ad)
+
+#### 4、使用别名简化命令
+
+![image](https://github.com/user-attachments/assets/36f42b45-71c5-47aa-8140-ae29b557045e)
+![image](https://github.com/user-attachments/assets/4e00d782-2398-444a-8dfd-da1b62aa11e4)
+
+
 
 
 
