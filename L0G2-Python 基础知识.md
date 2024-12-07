@@ -28,3 +28,20 @@
 ![image](https://github.com/user-attachments/assets/fabf82e6-8b95-4c02-8f5b-ffe9219754d8)
 
 #### 2、管理环境
+
+激活环境：
+![image](https://github.com/user-attachments/assets/e8deb583-d6b8-443e-9cc6-dab274fbdc56)
+
+退出环境：
+conda deactivate
+
+其他环境命令：
+
+#查看当前设备上所有的虚拟环境
+conda env list
+
+#查看当前环境中安装了的所有包
+conda list
+
+#删除环境（比如要删除myenv）
+conda env remove myenv
