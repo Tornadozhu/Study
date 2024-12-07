@@ -147,6 +147,9 @@ pip install -r requirements.txt --target /root/myenvs
 ![image](https://github.com/user-attachments/assets/36f42b45-71c5-47aa-8140-ae29b557045e)
 ![image](https://github.com/user-attachments/assets/4e00d782-2398-444a-8dfd-da1b62aa11e4)
 
+### Python调用InternLM api
+
+![image](https://github.com/user-attachments/assets/25f739e9-0c3c-4f33-869c-d12cfd972c24)
 
 
 
