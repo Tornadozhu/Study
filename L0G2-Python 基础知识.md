@@ -19,4 +19,12 @@
 ![image](https://github.com/user-attachments/assets/f3b9d9c3-236b-4bd8-b17d-826d9f62ae88)
 
 
+
 ## 任务二 Vscode连接InternStudio debug笔记
+
+### Conda虚拟环境
+#### 1、创建新环境
+
+![image](https://github.com/user-attachments/assets/fabf82e6-8b95-4c02-8f5b-ffe9219754d8)
+
+#### 2、管理环境
