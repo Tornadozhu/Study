@@ -93,3 +93,18 @@ pip install (somepackage) --target /root/myenvs
 
 pip install -r requirements.txt --target /root/myenvs
 
+### 使用本地Vscode连接InternStudio开发机
+
+![image](https://github.com/user-attachments/assets/2bf804c7-447f-4b50-bd12-ad198b169309)
+
+### 使用vscode连接开发机进行python debug
+
+#### 1、什么是debug
+
+简单来说，“debug”就是能再程序中设置中断点并支持一行一行地运行代码，观测程序中变量的变化，然后找出并修正代码中的错误
+
+#### 2、使用Vscode进行Python debug的流程
+
+
+
+
