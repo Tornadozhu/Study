@@ -106,28 +106,38 @@ pip install -r requirements.txt --target /root/myenvs
 #### 2、使用Vscode进行Python debug的流程
 
 创建一个py_debug.py的文件
+
 ![image](https://github.com/user-attachments/assets/5454373f-7e59-4fa6-a8eb-df9279fed4ba)
 
 生成的launch.json文件
+
 ![image](https://github.com/user-attachments/assets/81386a47-5d87-48bf-88b4-4dd0b6349212)
 
 设置断点
+
 ![image](https://github.com/user-attachments/assets/5df1cc00-7a80-48cb-a1ee-5eb2fa493571)
 
 查看变量
+
 ![image](https://github.com/user-attachments/assets/a2df8eef-2f61-4d11-adb6-e5a2cb631875)
 
 单步执行
+
 ![image](https://github.com/user-attachments/assets/88980130-dd6d-44f3-9d29-ef6a20d2bb20)
 
 表达式断点
+
 ![image](https://github.com/user-attachments/assets/5e9c4b61-be91-4694-9956-01a71ef71469)
 
 命中次数断点
+
 ![image](https://github.com/user-attachments/assets/9e4323ef-dec8-43a0-97f8-e6f929fd86cd)
 
 日志消息断点
+
 ![image](https://github.com/user-attachments/assets/ec863b9f-93c0-4acc-a301-3dfbe8a2b633)
+![image](https://github.com/user-attachments/assets/1903895c-8e94-465e-8ac5-fb507194426b)
+
 
 
 
