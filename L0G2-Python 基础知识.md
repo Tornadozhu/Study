@@ -152,7 +152,28 @@ pip install -r requirements.txt --target /root/myenvs
 ![image](https://github.com/user-attachments/assets/25f739e9-0c3c-4f33-869c-d12cfd972c24)
 
 
+## 任务三 通过debug功能定位到报错原因
 
+首先增加 os 模块，用环境变量获取 api_key
+
+![image](https://github.com/user-attachments/assets/54d220d6-9f90-4abd-ae4f-be7ca31441ba)
+![image](https://github.com/user-attachments/assets/176c798f-876b-4db4-b57a-d7436c9591bd)
+
+在res_json前设置断点，查看返回结果，显示结果发生异常: JSONDecodeError
+
+![image](https://github.com/user-attachments/assets/2e2c36ec-9840-4b04-b7fb-3c1581863e1e)
+
+res返回值不是json格式
+
+修改代码为如下，可正常运行
+
+![image](https://github.com/user-attachments/assets/a3c0fc02-6099-4d16-8d84-3b6910054d60)
+
+![image](https://github.com/user-attachments/assets/d545f2f2-78a8-4c38-93e5-ff789873fca2)
+
+另一种修改代码方式，可能更科学
+
+![image](https://github.com/user-attachments/assets/a63d30df-9244-4d8b-8a2c-45a89373026c)
 
 
 
